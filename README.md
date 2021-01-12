@@ -6,4 +6,6 @@ You can find there simple implemntation of
 
 - sidebar
 - project list
-- project details
+- project detailsgit
+
+![screenshots](https://github.com/study-path/swiftender/blob/master/intro.gif)
